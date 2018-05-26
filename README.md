@@ -1,0 +1,3 @@
+# A 2 factor Authentication System
+
+This is the basics of a 2 factor authentication system development. The authentication is based on an "easy" password together with a seconde factor that depends on a sensor. In the lack of the second factor, that is based on a sensor, the "hard" password may be used. The project is incomplete and was developed to validate the "Privacy by Evidence" (PbE) methodology, which aims to help the developers when building systems that demands privacy requiriments. At the end of the process, by following the PbE methodology, the team is capable of providing privacy evidences in a report.
